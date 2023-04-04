@@ -7,11 +7,6 @@ package main
 
 import "fmt"
 
-func prime_factors(x int, limit int) bool {
-	
-
-}
-
 func solve(limit int) int {
 	
 	for i := 1; true; i++ {
